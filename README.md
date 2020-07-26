@@ -3,7 +3,7 @@
  'Curriculum : https://docs.google.com/spreadsheets/d/1H-frgWZVHFJYvBhLVNsK6HMLx_RO0zk7IuopVrYnNp0/edit#gid=451239208
 
 ---
-**Artificial Intelligence 인공지능 입문**
+**Artificial Intelligence 인공지능 입문** <Br>
 https://pabi.smartlearn.io/courses/course-v1:POSTECH+DSC001+P2002/courseware/DTGJuhkPzkkgMX4Ge4LoSyBo8uUNyNgZ/FGMBU2TXhZmlOn4Tar4sywuWKFK9PNso/1?activate_block_id=block-v1%3APOSTECH%2BDSC001%2BP2002%2Btype%40vertical%2Bblock%40LHQqkN508KKULJz6OVpbkNPIRIpiJEAV
 
 #### What can AI do for us?
