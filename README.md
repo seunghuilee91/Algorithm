@@ -1,7 +1,4 @@
-# Deeplearning
-Modeling related to Neural Network
+# Algorithm
+Learning Algorithm 
 
-- Neural Network (NN) / 신경망
-- Convolutional Neural Network (CNN) / 합성곱 신경망
-- Graph Convolution Network (GNN) / 그래프 합성곱 신경망
-- Deep Neural Netwrok (DNN) / 
+https://docs.google.com/spreadsheets/d/1H-frgWZVHFJYvBhLVNsK6HMLx_RO0zk7IuopVrYnNp0/edit#gid=451239208
