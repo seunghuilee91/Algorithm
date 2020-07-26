@@ -36,7 +36,8 @@ https://pabi.smartlearn.io/courses/course-v1:POSTECH+DSC001+P2002/courseware/DTG
 
 
 ----
-### 크게 4가지 모델로 구분할 수 있다
+[참고 : 4가지 모델 형식]
+
 #### Reflex
 #### State-based
  - A **state** captures all the relevant information about the past in order to act optimally in the future
