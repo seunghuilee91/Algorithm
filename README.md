@@ -38,16 +38,14 @@ https://pabi.smartlearn.io/courses/course-v1:POSTECH+DSC001+P2002/courseware/DTG
 ----
 ### 크게 4가지 모델로 구분할 수 있다
 #### Reflex
-#### State-based models
- Key idea : state
- 
+#### State-based
  - A **state** captures all the relevant information about the past in order to act optimally in the future
  - 어떤 목적을 달성하기 위해 최적의 STATE를 찾는 것 (ex. Alphago, 벽돌깨기 게임)
    
-#### Valuables-based moedels 
+#### Valuables-based  
  - (ex. map coloring, scheduling, tracking cars from sensors)
 
-#### Logic models
+#### Logic 
  - 어떤 질문이 주어졌을때 논리적으로 대답하게끔 함 
  
    
